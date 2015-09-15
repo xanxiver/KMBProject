@@ -1,0 +1,231 @@
+
+/*Additional font awesome container style*/
+.fa-inline-b{
+	display: inline-block;
+	width:2em;
+}
+/*header margin*/
+header{
+	margin-top:50px;
+}
+/*Carousel styling*/
+#header-bg .carousel-inner{
+	height: 450px;
+}
+.carousel-inner .item{
+	height: inherit;
+	background-attachment: scroll;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.carousel-control{
+	z-index: 2;
+}
+/*Overlaying Container*/
+.overlay{
+	background-color:rgba(10,10,10,0.3);
+	height:inherit;
+	position: absolute;
+	width:100%;
+	height: 100%;
+	z-index: 1;
+}
+.overlay .item{
+	margin-top:60px;
+}
+@media (min-width:991px){
+	.overlay .logo{
+		z-index:1;
+		color:white;
+		margin-top:15%;
+	}	
+}
+
+/*Image styling*/
+.img-center,.img-left,.img-right{
+	display: block;
+	margin:0 auto;
+}
+@media(min-width: 991px){
+	.img-left{
+		display: block;
+		margin:0 auto 0 0;
+	}
+	.img-right{
+		display: block;
+		margin:0 0 0 auto;	
+	}
+}
+.img-holder{
+	border:1px solid white;
+	width:100%;
+	margin:0 auto;
+}
+@media(max-width:990px){
+	.img-holder{
+		width:325px;
+	}
+}
+@media(max-width:768px){
+	.img-holder{
+		width:275px;
+	}
+}
+.img-circle{
+	border-radius: 50%;
+}
+.panel-body img{
+	width:200px;
+	height:200px;
+}
+/*Container helper*/
+.inner{
+	padding:0 15px;
+}
+/*section styling*/
+section{
+	padding:65px 0;
+}
+.section-heading{
+	font-size:4em;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+/*footer styling*/
+footer{
+	padding:10px 0;
+	background-color:#000;
+}
+footer .copyright{
+	color:white;
+	display: inline-block;
+	margin-top:10px;
+}
+/*Social Button Style*/
+ul.social-buttons {
+    margin-bottom: 0;
+}
+
+ul.social-buttons li a{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #333;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+ul.social-buttons li.yahoo a:hover,
+ul.social-buttons li.yahoo a:focus,
+ul.social-buttons li.yahoo a:active {
+    background-color:#7B0099;
+}
+ul.social-buttons li.twitter a:hover,
+ul.social-buttons li.twitter a:focus,
+ul.social-buttons li.twitter a:active {
+    background-color:rgba(91,192,222,1);
+}
+ul.social-buttons li.fb a:hover,
+ul.social-buttons li.fb a:focus,
+ul.social-buttons li.fb a:active {
+    background-color:darkblue;
+}
+ul.social-buttons li.ig a:hover,
+ul.social-buttons li.ig a:focus,
+ul.social-buttons li.ig a:active {
+    background-color:rgba(102,51,0,1);
+}
+/*font styling*/
+@media (min-width:991px){
+	.font-lg{
+		font-size:20px;
+	}
+	.font-md{
+		font-size:16px;
+	}
+	.font-sm{
+		font-size:12px;
+	}
+}
+/*custom margin*/
+.mar-top{
+	margin-top:3.5em;
+}
+.mar-bottom{
+	margin-bottom:3.5em;
+}
+/*custom bg-color*/
+.grey-bg{
+	background-color:#ddd;
+}
+/*link outline disable*/
+a:hover,a:focus,a:active{
+	outline:0;
+}
+/* ID Styling */
+
+	/*Contact Style*/
+	section#contact {
+	    background-color: #222;
+	    background-image: url(../img/map-image.png);
+	    background-position: center;
+	    background-repeat: no-repeat;
+	    padding:110px 0;
+	}
+	/*Profile Style*/
+	@media(min-width:992px){
+		section#profile img{
+			width:400px;
+		}
+		section#profile .id-desc{
+			padding-top:70px;
+		}
+	}
+	section#profile{
+		padding:0;
+		background-attachment: scroll;
+		background-position: center center;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    background-size: cover;
+	    -o-background-size: cover;
+	}
+	section#profile .overlay{
+		position: relative;
+		padding:110px 0;
+	}
+	section#profile .id-desc{
+		color:white;
+	}
+	section#profile table{
+		width:100%;
+	}
+	section#profile table tr td{
+		font-size:1.2em;
+	}
+	section#profile table tr td:nth-child(1){
+		width:45%;
+		padding-right: 30px;
+		text-align: right;
+	}
+	section#profile table tr td:nth-child(2){
+		width:45%;
+	}
+
+/*Overflow Handling*/
+.over-x-scroll{
+	overflow-x:scroll;
+}
+.over-y-scroll{
+	overflow-y:scroll;
+}
