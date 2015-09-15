@@ -7,7 +7,7 @@
         <meta name="description" content="kmb,keluarga,mahasiswa,buddhis,indonesia,mikroskil,kmb mikroskil">
         <meta name="author" content="Divisi Web KMB Mikroskil">
     	<title>Keluarga Mahasiswa Buddhis Mikroskil</title>
-        <link rel="icon" href="img/LogoKMB.jpg">
+        <link rel="icon" href="http://i61.tinypic.com/33uq0wo.jpg">
     	<!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -78,15 +78,15 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="item active" style="background-image:url('img/kmb-bg.jpg');">
+                    <div class="item active" style="background-image:url('http://i57.tinypic.com/10sgjkw.jpg');">
                         </div>
 
-                        <div class="item" style="background-image:url('img/kmb-bg-2.jpg');">
+                        <div class="item" style="background-image:url('http://i57.tinypic.com/16hmge9.jpg');">
                         </div>
 
-                        <div class="item" style="background-image:url('img/kmb-bg-3.jpg');">
+                        <div class="item" style="background-image:url('http://i59.tinypic.com/28luxcj.jpg');">
                         </div>
-                        <div class="item" style="background-image:url('img/kmb-bg-4.jpg');">
+                        <div class="item" style="background-image:url('http://i57.tinypic.com/iwmcft.jpg');">
                     </div>
                   </div>
                   <!-- Left and right controls -->
