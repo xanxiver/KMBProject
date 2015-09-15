@@ -68,7 +68,7 @@
                         <div class="row item">
                             <div class="col-md-12">
                                 <div class="inner">
-                                    <img src="img/kmbmikroskil.png" class="img-responsive img-center">
+                                    <img src="http://i62.tinypic.com/ie3v2w.png" class="img-responsive img-center">
                                 </div>
                             </div>
                             <!-- <div class="col-md-4">
