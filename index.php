@@ -54,7 +54,7 @@
             </div>
         </nav>
         <header>
-            <div id="header-bg" class="carousel slide" data-ride="carousel">
+            <div id="header-bg" class="carousel" data-ride="carousel">
                   <!-- Indicators -->
                   <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -78,15 +78,15 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="item active" style="background-image:url('http://i57.tinypic.com/10sgjkw.jpg');">
+                        <div class="item active animated flipInX" style="background-image:url('http://i57.tinypic.com/10sgjkw.jpg');">
                         </div>
 
-                        <div class="item" style="background-image:url('http://i57.tinypic.com/16hmge9.jpg');">
+                        <div class="item animated flipInX" style="background-image:url('http://i57.tinypic.com/16hmge9.jpg');">
                         </div>
 
-                        <div class="item" style="background-image:url('http://i59.tinypic.com/28luxcj.jpg');">
+                        <div class="item animated flipInX" style="background-image:url('http://i59.tinypic.com/28luxcj.jpg');">
                         </div>
-                        <div class="item" style="background-image:url('http://i57.tinypic.com/iwmcft.jpg');">
+                        <div class="item animated flipInX" style="background-image:url('http://i57.tinypic.com/iwmcft.jpg');">
                     </div>
                   </div>
                   <!-- Left and right controls -->
