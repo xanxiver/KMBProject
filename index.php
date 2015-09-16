@@ -121,6 +121,8 @@
                                 <a href="#modal1" data-toggle="modal" class="btn btn-default btn-lg">Open</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-md-4">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h1 class="text-center">Rekruitmen Anggota Baru</h1>
