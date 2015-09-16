@@ -109,6 +109,20 @@
                     <div class="col-md-4">
                         <div class="panel panel-default">
                             <div class="panel-heading">
+                                <h1 class="text-center">Bakti Sosial SLB-C Santa Lucia</h1>
+                            </div>
+                            <div class="panel-body">
+                                <img src="http://i62.tinypic.com/k1xtur.jpg" class="img-responsive img-center img-circle">
+                                <div class="panel-desc text-justify">
+                                    Bagi Anda yang ingin berbagi kasih kepada saudara kita yang berkebutuhan khusus bisa langsung menghubungi contact person yang tersedia atau klik Open untuk info lebih lanjut
+                                </div>
+                            </div>
+                            <div class="panel-footer text-center">
+                                <a href="#modal1" data-toggle="modal" class="btn btn-default btn-lg">Open</a>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
                                 <h1 class="text-center">Rekruitmen Anggota Baru</h1>
                             </div>
                             <div class="panel-body">
@@ -181,6 +195,24 @@
             </div>
         </footer>
         <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>    
+            <h4 class="modal-title" id="myModalLabel">Bakti Sosial SLB-C Santa Lucia</h4>
+              </div>
+
+              <div class="modal-body">
+                <img src="http://i62.tinypic.com/k1xtur.jpg" class="img-responsive img-center">
+                <!-- <p class="text-justify">Ci Valentine selagi sidang #lol sekarang sih udah siap, Congratulation Ci Tine (Ko ndro jg dah).</p> -->
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default btn-danger" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>        
+        <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
           <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
               <div class="modal-header">
