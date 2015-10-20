@@ -78,13 +78,13 @@
                             </div> -->
                         </div>
                     </div>
-                        <div class="item active animated flipInY" style="background-image:url('http://i57.tinypic.com/10sgjkw.jpg');">
+                        <div class="item active animated flipInX" style="background-image:url('http://i57.tinypic.com/10sgjkw.jpg');">
                         </div>
 
                         <div class="item animated flipInX" style="background-image:url('http://i57.tinypic.com/16hmge9.jpg');">
                         </div>
 
-                        <div class="item animated tada" style="background-image:url('http://i59.tinypic.com/28luxcj.jpg');">
+                        <div class="item animated flipInX" style="background-image:url('http://i59.tinypic.com/28luxcj.jpg');">
                         </div>
                         <div class="item animated flipInX" style="background-image:url('http://i57.tinypic.com/iwmcft.jpg');">
                     </div>
